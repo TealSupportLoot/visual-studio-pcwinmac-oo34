@@ -1,4 +1,4 @@
-# 
+# Nativo Visual Studio predefinições para Mac OS | Seguro Visual Studio predefinições para PC Windows. Com depuração SQL e análise de código — otimizado para máximo desempenho em cada plataforma.
 
 
 
